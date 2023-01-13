@@ -1,0 +1,25 @@
+@media only screen and (max-width: 450px) {
+    section {
+        width: 300px;
+        height: 550px;
+    }
+    .buttons-wrapper {
+        height: 70%;
+    }
+    .buttons {
+        margin: 10px;
+    }
+    .buttons input {
+        width: 60px;
+        height: 60px;
+        font-size: 25px;
+    }
+    .buttons .null {
+        width: 130px;
+    }
+    .results {
+        width: 280px;
+        height: 160px;
+        font-size: 60px;
+    }
+}
