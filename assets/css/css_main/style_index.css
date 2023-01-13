@@ -73,6 +73,7 @@ section {
 .buttons .or_col {
     background-color: #f69906;
     transition-duration: 0.5s;
+    font-size: 34px;
 }
 
 .buttons .or_col:focus {
